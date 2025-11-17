@@ -1,0 +1,21 @@
+{
+  "name": "sistema-orcamentos",
+  "version": "1.0.0",
+  "description": "Sistema de orçamentos para empresas",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000",
+    "build": "echo 'No build process needed for static site'"
+  },
+  "keywords": [
+    "orçamentos",
+    "empresas",
+    "sistema",
+    "gestão"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
