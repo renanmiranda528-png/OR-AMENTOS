@@ -1,21 +1,16 @@
 {
-  "name": "sistema-orcamentos",
+  "name": "sistema-orcamentos-redirect",
   "version": "1.0.0",
-  "description": "Sistema de orçamentos para empresas",
+  "description": "Página de redirecionamento para o Sistema de Orçamentos",
   "main": "index.html",
   "scripts": {
-    "start": "live-server --port=3000",
-    "build": "echo 'No build process needed for static site'"
+    "start": "live-server --port=3000"
   },
   "keywords": [
+    "redirect",
     "orçamentos",
-    "empresas",
-    "sistema",
-    "gestão"
+    "sistema"
   ],
   "author": "Seu Nome",
-  "license": "MIT",
-  "devDependencies": {
-    "live-server": "^1.2.2"
-  }
+  "license": "MIT"
 }
