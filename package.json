@@ -1,16 +1,25 @@
 {
-  "name": "sistema-orcamentos-redirect",
-  "version": "1.0.0",
-  "description": "Página de redirecionamento para o Sistema de Orçamentos",
-  "main": "index.html",
-  "scripts": {
-    "start": "live-server --port=3000"
-  },
-  "keywords": [
-    "redirect",
-    "orçamentos",
-    "sistema"
-  ],
-  "author": "Seu Nome",
-  "license": "MIT"
+  "name": "Gestor Express - CRM",
+  "short_name": "Gestor Express",
+  "description": "Sistema de gestão e CRM profissional",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "any",
+  "categories": ["business", "productivity"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
